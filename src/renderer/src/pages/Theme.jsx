@@ -2,7 +2,9 @@ import React from 'react'
 
 const Theme = () => {
   return (
-    <h1>Theme</h1>
+    <div className="content">
+      <h1>Thèmes</h1>
+    </div>
   )
 }
 
